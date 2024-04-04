@@ -1,0 +1,1 @@
+This application shows an example of how the screen works after some processes are completed
