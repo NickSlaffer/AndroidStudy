@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="FirstOic">Tap the lemon tree to select a lemon</string>
+    <string name="SecondPic">Keep tapping the lemon to squeeze it</string>
+    <string name="ThirdPic">Tap the lemonade to drink it</string>
+    <string name="FourthPic"> the empty glass to start again</string>
+
+</resources>
